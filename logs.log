@@ -1,0 +1,69 @@
+20/07/23 13:04:29 (IST) info: Server is running on http://localhost:5000
+20/07/23 13:04:36 (IST) info: API Working on port 5000
+20/07/23 13:04:41 (IST) info: TraceID:939383,<------StartingPoint------>
+20/07/23 13:04:41 (IST) info: TraceID:939383, Fetching All Questions from DynamoDB TableName QuestionAnswer
+20/07/23 13:04:43 (IST) error: TraceID:939383, Error:CredentialsProviderError: Could not load credentials from any providers
+20/07/23 13:04:43 (IST) info: TraceID:939383,<------EndPoint------>
+20/07/23 13:08:41 (IST) info: Server is running on http://localhost:5000
+20/07/23 13:08:48 (IST) info: API Working on port 5000
+20/07/23 13:08:51 (IST) info: TraceID:757347,<------StartingPoint------>
+20/07/23 13:08:51 (IST) info: TraceID:757347, Fetching All Questions from DynamoDB TableName QuestionAnswer
+20/07/23 13:08:53 (IST) error: TraceID:757347, Error:CredentialsProviderError: Could not load credentials from any providers
+20/07/23 13:08:53 (IST) info: TraceID:757347,<------EndPoint------>
+22/07/23 14:42:00 (IST) info: Server is running on http://localhost:5000
+22/07/23 14:42:03 (IST) info: API Working on port 5000
+22/07/23 14:42:08 (IST) info: TraceID:879573,<------StartingPoint------>
+22/07/23 14:42:08 (IST) info: TraceID:879573, Fetching All Questions from DynamoDB TableName QuestionAnswer
+22/07/23 14:42:10 (IST) error: TraceID:879573, Error:CredentialsProviderError: Could not load credentials from any providers
+22/07/23 14:42:10 (IST) info: TraceID:879573,<------EndPoint------>
+22/07/23 14:46:15 (IST) info: Server is running on http://localhost:5000
+22/07/23 14:46:18 (IST) info: TraceID:476482,<------StartingPoint------>
+22/07/23 14:46:18 (IST) info: TraceID:476482, Fetching All Questions from DynamoDB TableName QuestionAnswer
+22/07/23 14:46:20 (IST) error: TraceID:476482, Error:CredentialsProviderError: Could not load credentials from any providers
+22/07/23 14:46:20 (IST) info: TraceID:476482,<------EndPoint------>
+22/07/23 14:47:24 (IST) info: Server is running on http://localhost:5000
+22/07/23 14:47:24 (IST) info: TraceID:844808,<------StartingPoint------>
+22/07/23 14:47:24 (IST) info: TraceID:844808, Fetching All Questions from DynamoDB TableName QuestionAnswer
+22/07/23 14:47:24 (IST) error: TraceID:844808, Error:Error: Region is missing
+22/07/23 14:47:24 (IST) info: TraceID:844808,<------EndPoint------>
+22/07/23 14:47:25 (IST) info: API Working on port 5000
+22/07/23 14:47:28 (IST) info: API Working on port 5000
+22/07/23 14:47:33 (IST) info: TraceID:603404,<------StartingPoint------>
+22/07/23 14:47:33 (IST) info: TraceID:603404, Fetching All Questions from DynamoDB TableName QuestionAnswer
+22/07/23 14:47:33 (IST) error: TraceID:603404, Error:Error: Region is missing
+22/07/23 14:47:33 (IST) info: TraceID:603404,<------EndPoint------>
+22/07/23 14:51:19 (IST) info: Server is running on http://localhost:5000
+22/07/23 14:51:23 (IST) info: TraceID:535842,<------StartingPoint------>
+22/07/23 14:51:23 (IST) info: TraceID:535842, Fetching All Questions from DynamoDB TableName QuestionAnswer
+22/07/23 14:51:25 (IST) error: TraceID:535842, Error:CredentialsProviderError: Could not load credentials from any providers
+22/07/23 14:51:25 (IST) info: TraceID:535842,<------EndPoint------>
+22/07/23 14:51:36 (IST) error: Could not load credentials from any providers
+22/07/23 14:52:06 (IST) error: Could not load credentials from any providers
+22/07/23 14:53:15 (IST) info: Server is running on http://localhost:5000
+22/07/23 14:53:19 (IST) info: TraceID:513019,<------StartingPoint------>
+22/07/23 14:53:19 (IST) info: TraceID:513019, Fetching All Questions from DynamoDB TableName QuestionAnswer
+22/07/23 14:53:21 (IST) error: TraceID:513019, Error:CredentialsProviderError: Could not load credentials from any providers
+22/07/23 14:53:21 (IST) info: TraceID:513019,<------EndPoint------>
+22/07/23 14:53:23 (IST) info: TraceID:711959,<------StartingPoint------>
+22/07/23 14:53:23 (IST) info: TraceID:711959, Fetching All Questions from DynamoDB TableName QuestionAnswer
+22/07/23 14:53:25 (IST) error: TraceID:711959, Error:CredentialsProviderError: Could not load credentials from any providers
+22/07/23 14:53:25 (IST) info: TraceID:711959,<------EndPoint------>
+22/07/23 14:53:33 (IST) info: Server is running on http://localhost:5000
+22/07/23 14:53:40 (IST) info: Server is running on http://localhost:5000
+22/07/23 14:53:41 (IST) info: TraceID:725571,<------StartingPoint------>
+22/07/23 14:53:41 (IST) info: TraceID:725571, Fetching All Questions from DynamoDB TableName QuestionAnswer
+22/07/23 14:53:43 (IST) error: TraceID:725571, Error:CredentialsProviderError: Could not load credentials from any providers
+22/07/23 14:53:43 (IST) info: TraceID:725571,<------EndPoint------>
+22/07/23 14:59:19 (IST) info: Server is running on http://localhost:5000
+22/07/23 15:01:24 (IST) info: TraceID:319420,<------StartingPoint------>
+22/07/23 15:01:24 (IST) info: TraceID:319420, Fetching All Questions from DynamoDB TableName QuestionAnswer
+22/07/23 15:01:26 (IST) error: TraceID:319420, Error:CredentialsProviderError: Could not load credentials from any providers
+22/07/23 15:01:26 (IST) info: TraceID:319420,<------EndPoint------>
+22/07/23 15:01:28 (IST) info: TraceID:415961,<------StartingPoint------>
+22/07/23 15:01:28 (IST) info: TraceID:415961, Fetching All Questions from DynamoDB TableName QuestionAnswer
+22/07/23 15:01:30 (IST) error: TraceID:415961, Error:CredentialsProviderError: Could not load credentials from any providers
+22/07/23 15:01:30 (IST) info: TraceID:415961,<------EndPoint------>
+22/07/23 15:02:51 (IST) info: TraceID:174638,<------StartingPoint------>
+22/07/23 15:02:51 (IST) info: TraceID:174638, Fetching All Questions from DynamoDB TableName QuestionAnswer
+22/07/23 15:02:53 (IST) error: TraceID:174638, Error:CredentialsProviderError: Could not load credentials from any providers
+22/07/23 15:02:53 (IST) info: TraceID:174638,<------EndPoint------>
